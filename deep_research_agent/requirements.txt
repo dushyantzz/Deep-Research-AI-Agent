@@ -1,0 +1,5 @@
+langgraph
+langchain-core # Often needed by langgraph components
+tavily-python
+python-dotenv # Useful for managing environment variables like API keys
+streamlit
